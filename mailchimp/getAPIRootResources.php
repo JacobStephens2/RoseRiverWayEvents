@@ -1,8 +1,8 @@
 <?php
 
-require_once('initializeMailchimp.php');
+require_once('packages/initializeMailchimp.php');
 
-$response = $mailchimp->root->getRoot();
+$response = $client->root->getRoot();
 
 print_r($response);
 

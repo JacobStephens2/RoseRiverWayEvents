@@ -1,0 +1,1857 @@
+stdClass Object
+(
+    [members] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [id] => 5f198e554a377e468801a54e3d391883
+                    [email_address] => roseriverway@outlook.com
+                    [unique_email_id] => 38d1653e94
+                    [contact_id] => 61343cde5d54bbd3ec47e507f6c13df4
+                    [full_name] => Anna Carter
+                    [web_id] => 364589101
+                    [email_type] => html
+                    [status] => subscribed
+                    [consents_to_one_to_one_messaging] => 1
+                    [merge_fields] => stdClass Object
+                        (
+                            [FNAME] => Anna
+                            [LNAME] => Carter
+                            [ADDRESS] => stdClass Object
+                                (
+                                    [addr1] => test
+                                    [addr2] => 
+                                    [city] => test
+                                    [state] => PA
+                                    [zip] => 19543
+                                    [country] => US
+                                )
+
+                            [PHONE] => 
+                            [BIRTHDAY] => 
+                        )
+
+                    [stats] => stdClass Object
+                        (
+                            [avg_open_rate] => 0.0161
+                            [avg_click_rate] => 0
+                            [ecommerce_data] => stdClass Object
+                                (
+                                    [total_revenue] => 0
+                                    [number_of_orders] => 1
+                                    [currency_code] => USD
+                                )
+
+                        )
+
+                    [ip_signup] => 
+                    [timestamp_signup] => 
+                    [ip_opt] => 24.115.34.230
+                    [timestamp_opt] => 2020-06-08T21:06:48+00:00
+                    [member_rating] => 2
+                    [last_changed] => 2020-08-09T23:45:08+00:00
+                    [language] => en
+                    [vip] => 
+                    [email_client] => Android WebView
+                    [location] => stdClass Object
+                        (
+                            [latitude] => 40.22
+                            [longitude] => -75.65
+                            [gmtoff] => -5
+                            [dstoff] => -4
+                            [country_code] => US
+                            [timezone] => america/new_york
+                            [region] => pa
+                        )
+
+                    [source] => Anna Carter
+                    [tags_count] => 5
+                    [tags] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [id] => 3269601
+                                    [name] => July Big WS
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [id] => 3267534
+                                    [name] => June Mini Workshop
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [id] => 3267610
+                                    [name] => Confirmed Virtual Workshops
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [id] => 3267514
+                                    [name] => Newsletter
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [id] => 3267510
+                                    [name] => Blog
+                                )
+
+                        )
+
+                    [list_id] => becfdf7b92
+                    [_links] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [rel] => self
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/5f198e554a377e468801a54e3d391883
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [rel] => parent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Paths/Lists/Members/Collection.json
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [rel] => update
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/5f198e554a377e468801a54e3d391883
+                                    [method] => PATCH
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PATCH.json
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [rel] => upsert
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/5f198e554a377e468801a54e3d391883
+                                    [method] => PUT
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PUT.json
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [rel] => delete
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/5f198e554a377e468801a54e3d391883
+                                    [method] => DELETE
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [rel] => activity
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/5f198e554a377e468801a54e3d391883/activity
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Activity/Response.json
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [rel] => goals
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/5f198e554a377e468801a54e3d391883/goals
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Goals/Response.json
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [rel] => notes
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/5f198e554a377e468801a54e3d391883/notes
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Notes/CollectionResponse.json
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [rel] => events
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/5f198e554a377e468801a54e3d391883/events
+                                    [method] => POST
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Events/POST.json
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [rel] => delete_permanent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/5f198e554a377e468801a54e3d391883/actions/delete-permanent
+                                    [method] => POST
+                                )
+
+                        )
+
+                )
+
+            [1] => stdClass Object
+                (
+                    [id] => 59c9739e6841f36f65fbed3a58a1101e
+                    [email_address] => gjg@windstream.net
+                    [unique_email_id] => 945b074c12
+                    [contact_id] => c7e787204770431e966d8dd0013b83ea
+                    [full_name] => Gloria
+                    [web_id] => 377987638
+                    [email_type] => html
+                    [status] => subscribed
+                    [consents_to_one_to_one_messaging] => 1
+                    [merge_fields] => stdClass Object
+                        (
+                            [FNAME] => Gloria
+                            [LNAME] => 
+                            [ADDRESS] => 
+                            [PHONE] => 
+                            [BIRTHDAY] => 
+                        )
+
+                    [stats] => stdClass Object
+                        (
+                            [avg_open_rate] => 0.434
+                            [avg_click_rate] => 0.1132
+                            [ecommerce_data] => stdClass Object
+                                (
+                                    [total_revenue] => 0
+                                    [number_of_orders] => 0
+                                    [currency_code] => USD
+                                )
+
+                        )
+
+                    [ip_signup] => 
+                    [timestamp_signup] => 
+                    [ip_opt] => 24.115.34.230
+                    [timestamp_opt] => 2020-06-01T21:35:02+00:00
+                    [member_rating] => 5
+                    [last_changed] => 2020-06-01T21:35:02+00:00
+                    [language] => 
+                    [vip] => 
+                    [email_client] => Thunderbird
+                    [location] => stdClass Object
+                        (
+                            [latitude] => 40.17
+                            [longitude] => -76.17
+                            [gmtoff] => -5
+                            [dstoff] => -4
+                            [country_code] => US
+                            [timezone] => america/new_york
+                            [region] => pa
+                        )
+
+                    [source] => Import
+                    [tags_count] => 3
+                    [tags] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [id] => 3986125
+                                    [name] => Mushroom VW
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [id] => 3267610
+                                    [name] => Confirmed Virtual Workshops
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [id] => 3267534
+                                    [name] => June Mini Workshop
+                                )
+
+                        )
+
+                    [list_id] => becfdf7b92
+                    [_links] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [rel] => self
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/59c9739e6841f36f65fbed3a58a1101e
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [rel] => parent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Paths/Lists/Members/Collection.json
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [rel] => update
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/59c9739e6841f36f65fbed3a58a1101e
+                                    [method] => PATCH
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PATCH.json
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [rel] => upsert
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/59c9739e6841f36f65fbed3a58a1101e
+                                    [method] => PUT
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PUT.json
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [rel] => delete
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/59c9739e6841f36f65fbed3a58a1101e
+                                    [method] => DELETE
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [rel] => activity
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/59c9739e6841f36f65fbed3a58a1101e/activity
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Activity/Response.json
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [rel] => goals
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/59c9739e6841f36f65fbed3a58a1101e/goals
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Goals/Response.json
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [rel] => notes
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/59c9739e6841f36f65fbed3a58a1101e/notes
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Notes/CollectionResponse.json
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [rel] => events
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/59c9739e6841f36f65fbed3a58a1101e/events
+                                    [method] => POST
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Events/POST.json
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [rel] => delete_permanent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/59c9739e6841f36f65fbed3a58a1101e/actions/delete-permanent
+                                    [method] => POST
+                                )
+
+                        )
+
+                )
+
+            [2] => stdClass Object
+                (
+                    [id] => ce386b20b279280b449526439284b6fb
+                    [email_address] => wmsteege@aol.com
+                    [unique_email_id] => 81ea2bd46f
+                    [contact_id] => 2e15fbf79359d19a45f927f541e69a7c
+                    [full_name] => Missy
+                    [web_id] => 377987646
+                    [email_type] => html
+                    [status] => subscribed
+                    [consents_to_one_to_one_messaging] => 1
+                    [merge_fields] => stdClass Object
+                        (
+                            [FNAME] => Missy
+                            [LNAME] => 
+                            [ADDRESS] => 
+                            [PHONE] => 
+                            [BIRTHDAY] => 
+                        )
+
+                    [stats] => stdClass Object
+                        (
+                            [avg_open_rate] => 0.9455
+                            [avg_click_rate] => 0.3091
+                            [ecommerce_data] => stdClass Object
+                                (
+                                    [total_revenue] => 0
+                                    [number_of_orders] => 0
+                                    [currency_code] => USD
+                                )
+
+                        )
+
+                    [ip_signup] => 
+                    [timestamp_signup] => 
+                    [ip_opt] => 24.115.34.230
+                    [timestamp_opt] => 2020-06-08T20:43:46+00:00
+                    [member_rating] => 5
+                    [last_changed] => 2020-06-08T20:43:46+00:00
+                    [language] => 
+                    [vip] => 
+                    [email_client] => iPhone
+                    [location] => stdClass Object
+                        (
+                            [latitude] => 39.6
+                            [longitude] => -78.83
+                            [gmtoff] => -5
+                            [dstoff] => -4
+                            [country_code] => US
+                            [timezone] => america/new_york
+                            [region] => md
+                        )
+
+                    [source] => Admin Add
+                    [tags_count] => 5
+                    [tags] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [id] => 6235921
+                                    [name] => -22 virt Humming
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [id] => 3400817
+                                    [name] => -21 Jan - Cardinal VW
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [id] => 3371829
+                                    [name] => Virtual Sunflower
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [id] => 3267534
+                                    [name] => June Mini Workshop
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [id] => 3267610
+                                    [name] => Confirmed Virtual Workshops
+                                )
+
+                        )
+
+                    [list_id] => becfdf7b92
+                    [_links] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [rel] => self
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/ce386b20b279280b449526439284b6fb
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [rel] => parent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Paths/Lists/Members/Collection.json
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [rel] => update
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/ce386b20b279280b449526439284b6fb
+                                    [method] => PATCH
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PATCH.json
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [rel] => upsert
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/ce386b20b279280b449526439284b6fb
+                                    [method] => PUT
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PUT.json
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [rel] => delete
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/ce386b20b279280b449526439284b6fb
+                                    [method] => DELETE
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [rel] => activity
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/ce386b20b279280b449526439284b6fb/activity
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Activity/Response.json
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [rel] => goals
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/ce386b20b279280b449526439284b6fb/goals
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Goals/Response.json
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [rel] => notes
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/ce386b20b279280b449526439284b6fb/notes
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Notes/CollectionResponse.json
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [rel] => events
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/ce386b20b279280b449526439284b6fb/events
+                                    [method] => POST
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Events/POST.json
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [rel] => delete_permanent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/ce386b20b279280b449526439284b6fb/actions/delete-permanent
+                                    [method] => POST
+                                )
+
+                        )
+
+                )
+
+            [3] => stdClass Object
+                (
+                    [id] => d6b1b0439e6d83da6fea05a7b98ced8f
+                    [email_address] => cricketlady29@hotmail.com
+                    [unique_email_id] => dc01d280b9
+                    [contact_id] => d6d18a689ec258a3f8d74435ad93f2f8
+                    [full_name] => Ashley
+                    [web_id] => 377987654
+                    [email_type] => html
+                    [status] => subscribed
+                    [consents_to_one_to_one_messaging] => 1
+                    [merge_fields] => stdClass Object
+                        (
+                            [FNAME] => Ashley
+                            [LNAME] => 
+                            [ADDRESS] => 
+                            [PHONE] => 
+                            [BIRTHDAY] => 
+                        )
+
+                    [stats] => stdClass Object
+                        (
+                            [avg_open_rate] => 0.3158
+                            [avg_click_rate] => 0.0702
+                            [ecommerce_data] => stdClass Object
+                                (
+                                    [total_revenue] => 0
+                                    [number_of_orders] => 0
+                                    [currency_code] => USD
+                                )
+
+                        )
+
+                    [ip_signup] => 
+                    [timestamp_signup] => 
+                    [ip_opt] => 24.115.34.230
+                    [timestamp_opt] => 2020-06-01T21:35:03+00:00
+                    [member_rating] => 5
+                    [last_changed] => 2020-06-01T21:35:03+00:00
+                    [language] => 
+                    [vip] => 
+                    [email_client] => Android webview
+                    [location] => stdClass Object
+                        (
+                            [latitude] => 40.24
+                            [longitude] => -75.64
+                            [gmtoff] => -5
+                            [dstoff] => -4
+                            [country_code] => US
+                            [timezone] => america/new_york
+                            [region] => pa
+                        )
+
+                    [source] => Import
+                    [tags_count] => 4
+                    [tags] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [id] => 3986125
+                                    [name] => Mushroom VW
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [id] => 3400817
+                                    [name] => -21 Jan - Cardinal VW
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [id] => 3267610
+                                    [name] => Confirmed Virtual Workshops
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [id] => 3267534
+                                    [name] => June Mini Workshop
+                                )
+
+                        )
+
+                    [list_id] => becfdf7b92
+                    [_links] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [rel] => self
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/d6b1b0439e6d83da6fea05a7b98ced8f
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [rel] => parent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Paths/Lists/Members/Collection.json
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [rel] => update
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/d6b1b0439e6d83da6fea05a7b98ced8f
+                                    [method] => PATCH
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PATCH.json
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [rel] => upsert
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/d6b1b0439e6d83da6fea05a7b98ced8f
+                                    [method] => PUT
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PUT.json
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [rel] => delete
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/d6b1b0439e6d83da6fea05a7b98ced8f
+                                    [method] => DELETE
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [rel] => activity
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/d6b1b0439e6d83da6fea05a7b98ced8f/activity
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Activity/Response.json
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [rel] => goals
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/d6b1b0439e6d83da6fea05a7b98ced8f/goals
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Goals/Response.json
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [rel] => notes
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/d6b1b0439e6d83da6fea05a7b98ced8f/notes
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Notes/CollectionResponse.json
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [rel] => events
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/d6b1b0439e6d83da6fea05a7b98ced8f/events
+                                    [method] => POST
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Events/POST.json
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [rel] => delete_permanent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/d6b1b0439e6d83da6fea05a7b98ced8f/actions/delete-permanent
+                                    [method] => POST
+                                )
+
+                        )
+
+                )
+
+            [4] => stdClass Object
+                (
+                    [id] => 4924a620a5533c6bc8c90fb660bfcfc4
+                    [email_address] => hmburn@aol.com
+                    [unique_email_id] => 41f948685d
+                    [contact_id] => c7dc908809ada851863162ec68182446
+                    [full_name] => Helen Burnley
+                    [web_id] => 377987658
+                    [email_type] => html
+                    [status] => subscribed
+                    [consents_to_one_to_one_messaging] => 1
+                    [merge_fields] => stdClass Object
+                        (
+                            [FNAME] => Helen
+                            [LNAME] => Burnley
+                            [ADDRESS] => stdClass Object
+                                (
+                                    [addr1] => 401 Reitnour Road
+                                    [addr2] => 
+                                    [city] => Spring City
+                                    [state] => PA
+                                    [zip] => 19475
+                                    [country] => US
+                                )
+
+                            [PHONE] => 
+                            [BIRTHDAY] => 
+                        )
+
+                    [stats] => stdClass Object
+                        (
+                            [avg_open_rate] => 0.9268
+                            [avg_click_rate] => 0.439
+                            [ecommerce_data] => stdClass Object
+                                (
+                                    [total_revenue] => 51.94
+                                    [number_of_orders] => 2
+                                    [currency_code] => USD
+                                )
+
+                        )
+
+                    [ip_signup] => 
+                    [timestamp_signup] => 
+                    [ip_opt] => 24.115.34.230
+                    [timestamp_opt] => 2020-06-01T21:35:03+00:00
+                    [member_rating] => 5
+                    [last_changed] => 2022-05-04T23:14:25+00:00
+                    [language] => en
+                    [vip] => 
+                    [email_client] => iPhone
+                    [location] => stdClass Object
+                        (
+                            [latitude] => 40.22
+                            [longitude] => -75.65
+                            [gmtoff] => -5
+                            [dstoff] => -4
+                            [country_code] => US
+                            [timezone] => america/new_york
+                            [region] => pa
+                        )
+
+                    [source] => Anna Carter
+                    [tags_count] => 14
+                    [tags] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [id] => 6235921
+                                    [name] => -22 virt Humming
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [id] => 4018021
+                                    [name] => -21 lighthouse
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [id] => 3988125
+                                    [name] => Mar -Pooh Bear VW
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [id] => 3986125
+                                    [name] => Mushroom VW
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [id] => 3400817
+                                    [name] => -21 Jan - Cardinal VW
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [id] => 3374493
+                                    [name] => Nov V Fox WS
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [id] => 3371829
+                                    [name] => Virtual Sunflower
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [id] => 3370257
+                                    [name] => Virtual Pumpkin_Sep
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [id] => 3369845
+                                    [name] => Sep Outdoor WS - Barn
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [id] => 3367417
+                                    [name] => Aug. Hedgehog Virtual
+                                )
+
+                            [10] => stdClass Object
+                                (
+                                    [id] => 3272873
+                                    [name] => Aug Outdoor WS
+                                )
+
+                            [11] => stdClass Object
+                                (
+                                    [id] => 3269601
+                                    [name] => July Big WS
+                                )
+
+                            [12] => stdClass Object
+                                (
+                                    [id] => 3267610
+                                    [name] => Confirmed Virtual Workshops
+                                )
+
+                            [13] => stdClass Object
+                                (
+                                    [id] => 3267534
+                                    [name] => June Mini Workshop
+                                )
+
+                        )
+
+                    [list_id] => becfdf7b92
+                    [_links] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [rel] => self
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/4924a620a5533c6bc8c90fb660bfcfc4
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [rel] => parent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Paths/Lists/Members/Collection.json
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [rel] => update
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/4924a620a5533c6bc8c90fb660bfcfc4
+                                    [method] => PATCH
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PATCH.json
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [rel] => upsert
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/4924a620a5533c6bc8c90fb660bfcfc4
+                                    [method] => PUT
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PUT.json
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [rel] => delete
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/4924a620a5533c6bc8c90fb660bfcfc4
+                                    [method] => DELETE
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [rel] => activity
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/4924a620a5533c6bc8c90fb660bfcfc4/activity
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Activity/Response.json
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [rel] => goals
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/4924a620a5533c6bc8c90fb660bfcfc4/goals
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Goals/Response.json
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [rel] => notes
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/4924a620a5533c6bc8c90fb660bfcfc4/notes
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Notes/CollectionResponse.json
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [rel] => events
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/4924a620a5533c6bc8c90fb660bfcfc4/events
+                                    [method] => POST
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Events/POST.json
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [rel] => delete_permanent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/4924a620a5533c6bc8c90fb660bfcfc4/actions/delete-permanent
+                                    [method] => POST
+                                )
+
+                        )
+
+                )
+
+            [5] => stdClass Object
+                (
+                    [id] => 380dc0c14ac06b44cc14cf79e24dd55c
+                    [email_address] => jillcortiglia@gmail.com
+                    [unique_email_id] => 91b0113e4d
+                    [contact_id] => 4e3c35fcb1f2fa3d3aa6b9b5d4492023
+                    [full_name] => Jill
+                    [web_id] => 377987662
+                    [email_type] => html
+                    [status] => subscribed
+                    [consents_to_one_to_one_messaging] => 1
+                    [merge_fields] => stdClass Object
+                        (
+                            [FNAME] => Jill
+                            [LNAME] => 
+                            [ADDRESS] => 
+                            [PHONE] => 
+                            [BIRTHDAY] => 
+                        )
+
+                    [stats] => stdClass Object
+                        (
+                            [avg_open_rate] => 0.3091
+                            [avg_click_rate] => 0
+                            [ecommerce_data] => stdClass Object
+                                (
+                                    [total_revenue] => 0
+                                    [number_of_orders] => 0
+                                    [currency_code] => USD
+                                )
+
+                        )
+
+                    [ip_signup] => 
+                    [timestamp_signup] => 
+                    [ip_opt] => 24.115.34.230
+                    [timestamp_opt] => 2020-06-01T21:35:03+00:00
+                    [member_rating] => 2
+                    [last_changed] => 2020-06-01T21:35:03+00:00
+                    [language] => 
+                    [vip] => 
+                    [email_client] => iPhone
+                    [location] => stdClass Object
+                        (
+                            [latitude] => 40.33
+                            [longitude] => -75.64
+                            [gmtoff] => 0
+                            [dstoff] => 0
+                            [country_code] => US
+                            [timezone] => 610/484
+                            [region] => pa
+                        )
+
+                    [source] => Import
+                    [tags_count] => 2
+                    [tags] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [id] => 3267610
+                                    [name] => Confirmed Virtual Workshops
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [id] => 3267534
+                                    [name] => June Mini Workshop
+                                )
+
+                        )
+
+                    [list_id] => becfdf7b92
+                    [_links] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [rel] => self
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/380dc0c14ac06b44cc14cf79e24dd55c
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [rel] => parent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Paths/Lists/Members/Collection.json
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [rel] => update
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/380dc0c14ac06b44cc14cf79e24dd55c
+                                    [method] => PATCH
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PATCH.json
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [rel] => upsert
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/380dc0c14ac06b44cc14cf79e24dd55c
+                                    [method] => PUT
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PUT.json
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [rel] => delete
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/380dc0c14ac06b44cc14cf79e24dd55c
+                                    [method] => DELETE
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [rel] => activity
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/380dc0c14ac06b44cc14cf79e24dd55c/activity
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Activity/Response.json
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [rel] => goals
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/380dc0c14ac06b44cc14cf79e24dd55c/goals
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Goals/Response.json
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [rel] => notes
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/380dc0c14ac06b44cc14cf79e24dd55c/notes
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Notes/CollectionResponse.json
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [rel] => events
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/380dc0c14ac06b44cc14cf79e24dd55c/events
+                                    [method] => POST
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Events/POST.json
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [rel] => delete_permanent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/380dc0c14ac06b44cc14cf79e24dd55c/actions/delete-permanent
+                                    [method] => POST
+                                )
+
+                        )
+
+                )
+
+            [6] => stdClass Object
+                (
+                    [id] => f88d7def0e9a1d09d565aabd8bd6a216
+                    [email_address] => linda.detwiler202@gmail.com
+                    [unique_email_id] => 0f364b7329
+                    [contact_id] => e51902508f2b658c022eb0d88eadab15
+                    [full_name] => Linda Detwiler
+                    [web_id] => 377987666
+                    [email_type] => html
+                    [status] => subscribed
+                    [consents_to_one_to_one_messaging] => 1
+                    [merge_fields] => stdClass Object
+                        (
+                            [FNAME] => Linda
+                            [LNAME] => Detwiler
+                            [ADDRESS] => stdClass Object
+                                (
+                                    [addr1] => 94 Overlook Road
+                                    [addr2] => 
+                                    [city] => Morgantown
+                                    [state] => PA
+                                    [zip] => 19543
+                                    [country] => US
+                                )
+
+                            [PHONE] => 
+                            [BIRTHDAY] => 
+                        )
+
+                    [stats] => stdClass Object
+                        (
+                            [avg_open_rate] => 0.925
+                            [avg_click_rate] => 0.4
+                            [ecommerce_data] => stdClass Object
+                                (
+                                    [total_revenue] => 44.52
+                                    [number_of_orders] => 1
+                                    [currency_code] => USD
+                                )
+
+                        )
+
+                    [ip_signup] => 
+                    [timestamp_signup] => 
+                    [ip_opt] => 24.115.34.230
+                    [timestamp_opt] => 2020-06-01T21:35:03+00:00
+                    [member_rating] => 5
+                    [last_changed] => 2020-06-22T16:17:15+00:00
+                    [language] => en
+                    [vip] => 
+                    [email_client] => Gmail
+                    [location] => stdClass Object
+                        (
+                            [latitude] => 40.17
+                            [longitude] => -75.89
+                            [gmtoff] => 0
+                            [dstoff] => 0
+                            [country_code] => US
+                            [timezone] => 610/484
+                            [region] => pa
+                        )
+
+                    [source] => Anna Carter
+                    [tags_count] => 15
+                    [tags] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [id] => 6235921
+                                    [name] => -22 virt Humming
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [id] => 4022053
+                                    [name] => -21 Forest
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [id] => 4018021
+                                    [name] => -21 lighthouse
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [id] => 3988125
+                                    [name] => Mar -Pooh Bear VW
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [id] => 3986125
+                                    [name] => Mushroom VW
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [id] => 3400817
+                                    [name] => -21 Jan - Cardinal VW
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [id] => 3374493
+                                    [name] => Nov V Fox WS
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [id] => 3371829
+                                    [name] => Virtual Sunflower
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [id] => 3370257
+                                    [name] => Virtual Pumpkin_Sep
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [id] => 3369845
+                                    [name] => Sep Outdoor WS - Barn
+                                )
+
+                            [10] => stdClass Object
+                                (
+                                    [id] => 3367417
+                                    [name] => Aug. Hedgehog Virtual
+                                )
+
+                            [11] => stdClass Object
+                                (
+                                    [id] => 3272873
+                                    [name] => Aug Outdoor WS
+                                )
+
+                            [12] => stdClass Object
+                                (
+                                    [id] => 3269601
+                                    [name] => July Big WS
+                                )
+
+                            [13] => stdClass Object
+                                (
+                                    [id] => 3267610
+                                    [name] => Confirmed Virtual Workshops
+                                )
+
+                            [14] => stdClass Object
+                                (
+                                    [id] => 3267534
+                                    [name] => June Mini Workshop
+                                )
+
+                        )
+
+                    [list_id] => becfdf7b92
+                    [_links] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [rel] => self
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/f88d7def0e9a1d09d565aabd8bd6a216
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [rel] => parent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Paths/Lists/Members/Collection.json
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [rel] => update
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/f88d7def0e9a1d09d565aabd8bd6a216
+                                    [method] => PATCH
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PATCH.json
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [rel] => upsert
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/f88d7def0e9a1d09d565aabd8bd6a216
+                                    [method] => PUT
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PUT.json
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [rel] => delete
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/f88d7def0e9a1d09d565aabd8bd6a216
+                                    [method] => DELETE
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [rel] => activity
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/f88d7def0e9a1d09d565aabd8bd6a216/activity
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Activity/Response.json
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [rel] => goals
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/f88d7def0e9a1d09d565aabd8bd6a216/goals
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Goals/Response.json
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [rel] => notes
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/f88d7def0e9a1d09d565aabd8bd6a216/notes
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Notes/CollectionResponse.json
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [rel] => events
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/f88d7def0e9a1d09d565aabd8bd6a216/events
+                                    [method] => POST
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Events/POST.json
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [rel] => delete_permanent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/f88d7def0e9a1d09d565aabd8bd6a216/actions/delete-permanent
+                                    [method] => POST
+                                )
+
+                        )
+
+                )
+
+            [7] => stdClass Object
+                (
+                    [id] => c3705aec19d5882d697f20302bc03401
+                    [email_address] => kfgrant@gmail.com
+                    [unique_email_id] => bd63b8e0c1
+                    [contact_id] => cbd263cc4a2af51035482c34f6001697
+                    [full_name] => Kerry
+                    [web_id] => 377987674
+                    [email_type] => html
+                    [status] => subscribed
+                    [consents_to_one_to_one_messaging] => 1
+                    [merge_fields] => stdClass Object
+                        (
+                            [FNAME] => Kerry
+                            [LNAME] => 
+                            [ADDRESS] => 
+                            [PHONE] => 
+                            [BIRTHDAY] => 
+                        )
+
+                    [stats] => stdClass Object
+                        (
+                            [avg_open_rate] => 0.3704
+                            [avg_click_rate] => 0.2407
+                            [ecommerce_data] => stdClass Object
+                                (
+                                    [total_revenue] => 0
+                                    [number_of_orders] => 0
+                                    [currency_code] => USD
+                                )
+
+                        )
+
+                    [ip_signup] => 
+                    [timestamp_signup] => 
+                    [ip_opt] => 24.115.34.230
+                    [timestamp_opt] => 2020-06-10T20:12:13+00:00
+                    [member_rating] => 5
+                    [last_changed] => 2020-06-10T20:12:14+00:00
+                    [language] => 
+                    [vip] => 
+                    [email_client] => Gmail
+                    [location] => stdClass Object
+                        (
+                            [latitude] => 40.17
+                            [longitude] => -75.89
+                            [gmtoff] => 0
+                            [dstoff] => 0
+                            [country_code] => US
+                            [timezone] => 610/484
+                            [region] => pa
+                        )
+
+                    [source] => Admin Add
+                    [tags_count] => 2
+                    [tags] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [id] => 3986125
+                                    [name] => Mushroom VW
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [id] => 3267610
+                                    [name] => Confirmed Virtual Workshops
+                                )
+
+                        )
+
+                    [list_id] => becfdf7b92
+                    [_links] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [rel] => self
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/c3705aec19d5882d697f20302bc03401
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [rel] => parent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Paths/Lists/Members/Collection.json
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [rel] => update
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/c3705aec19d5882d697f20302bc03401
+                                    [method] => PATCH
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PATCH.json
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [rel] => upsert
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/c3705aec19d5882d697f20302bc03401
+                                    [method] => PUT
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PUT.json
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [rel] => delete
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/c3705aec19d5882d697f20302bc03401
+                                    [method] => DELETE
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [rel] => activity
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/c3705aec19d5882d697f20302bc03401/activity
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Activity/Response.json
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [rel] => goals
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/c3705aec19d5882d697f20302bc03401/goals
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Goals/Response.json
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [rel] => notes
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/c3705aec19d5882d697f20302bc03401/notes
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Notes/CollectionResponse.json
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [rel] => events
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/c3705aec19d5882d697f20302bc03401/events
+                                    [method] => POST
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Events/POST.json
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [rel] => delete_permanent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/c3705aec19d5882d697f20302bc03401/actions/delete-permanent
+                                    [method] => POST
+                                )
+
+                        )
+
+                )
+
+            [8] => stdClass Object
+                (
+                    [id] => b0a6b77d76e0f35a57def5a311b1bf4d
+                    [email_address] => mervnjodi@gmail.com
+                    [unique_email_id] => 1c8eefdd99
+                    [contact_id] => 25f95753d951f97b1923c3cc4504d94c
+                    [full_name] => Jodi Riehl
+                    [web_id] => 377987682
+                    [email_type] => html
+                    [status] => subscribed
+                    [consents_to_one_to_one_messaging] => 1
+                    [merge_fields] => stdClass Object
+                        (
+                            [FNAME] => Jodi
+                            [LNAME] => Riehl
+                            [ADDRESS] => stdClass Object
+                                (
+                                    [addr1] => 2632 Plow Rd
+                                    [addr2] => 
+                                    [city] => Birdsboro
+                                    [state] => PA
+                                    [zip] => 19508
+                                    [country] => US
+                                )
+
+                            [PHONE] => 
+                            [BIRTHDAY] => 
+                        )
+
+                    [stats] => stdClass Object
+                        (
+                            [avg_open_rate] => 0.8654
+                            [avg_click_rate] => 0.1346
+                            [ecommerce_data] => stdClass Object
+                                (
+                                    [total_revenue] => 0
+                                    [number_of_orders] => 2
+                                    [currency_code] => USD
+                                )
+
+                        )
+
+                    [ip_signup] => 
+                    [timestamp_signup] => 
+                    [ip_opt] => 24.115.34.230
+                    [timestamp_opt] => 2020-06-01T21:35:03+00:00
+                    [member_rating] => 5
+                    [last_changed] => 2022-05-04T23:12:41+00:00
+                    [language] => en
+                    [vip] => 
+                    [email_client] => Gmail
+                    [location] => stdClass Object
+                        (
+                            [latitude] => 40.16
+                            [longitude] => -76.29
+                            [gmtoff] => 0
+                            [dstoff] => 0
+                            [country_code] => US
+                            [timezone] => 717/223
+                            [region] => pa
+                        )
+
+                    [source] => Anna Carter
+                    [tags_count] => 1
+                    [tags] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [id] => 3267610
+                                    [name] => Confirmed Virtual Workshops
+                                )
+
+                        )
+
+                    [list_id] => becfdf7b92
+                    [_links] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [rel] => self
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/b0a6b77d76e0f35a57def5a311b1bf4d
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [rel] => parent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Paths/Lists/Members/Collection.json
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [rel] => update
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/b0a6b77d76e0f35a57def5a311b1bf4d
+                                    [method] => PATCH
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PATCH.json
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [rel] => upsert
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/b0a6b77d76e0f35a57def5a311b1bf4d
+                                    [method] => PUT
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PUT.json
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [rel] => delete
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/b0a6b77d76e0f35a57def5a311b1bf4d
+                                    [method] => DELETE
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [rel] => activity
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/b0a6b77d76e0f35a57def5a311b1bf4d/activity
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Activity/Response.json
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [rel] => goals
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/b0a6b77d76e0f35a57def5a311b1bf4d/goals
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Goals/Response.json
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [rel] => notes
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/b0a6b77d76e0f35a57def5a311b1bf4d/notes
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Notes/CollectionResponse.json
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [rel] => events
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/b0a6b77d76e0f35a57def5a311b1bf4d/events
+                                    [method] => POST
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Events/POST.json
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [rel] => delete_permanent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/b0a6b77d76e0f35a57def5a311b1bf4d/actions/delete-permanent
+                                    [method] => POST
+                                )
+
+                        )
+
+                )
+
+            [9] => stdClass Object
+                (
+                    [id] => 10d18c644e77b3bda8d8777ee01d4b18
+                    [email_address] => lauramichelle@comcast.net
+                    [unique_email_id] => ea99039212
+                    [contact_id] => cda6dc6a82914fdab8797985b41eb210
+                    [full_name] => Laura
+                    [web_id] => 377987694
+                    [email_type] => html
+                    [status] => subscribed
+                    [consents_to_one_to_one_messaging] => 1
+                    [merge_fields] => stdClass Object
+                        (
+                            [FNAME] => Laura
+                            [LNAME] => 
+                            [ADDRESS] => 
+                            [PHONE] => 
+                            [BIRTHDAY] => 
+                        )
+
+                    [stats] => stdClass Object
+                        (
+                            [avg_open_rate] => 0.1455
+                            [avg_click_rate] => 0
+                            [ecommerce_data] => stdClass Object
+                                (
+                                    [total_revenue] => 0
+                                    [number_of_orders] => 0
+                                    [currency_code] => USD
+                                )
+
+                        )
+
+                    [ip_signup] => 
+                    [timestamp_signup] => 
+                    [ip_opt] => 24.115.34.230
+                    [timestamp_opt] => 2020-06-08T20:44:38+00:00
+                    [member_rating] => 4
+                    [last_changed] => 2020-06-08T20:44:38+00:00
+                    [language] => 
+                    [vip] => 
+                    [email_client] => iPhone
+                    [location] => stdClass Object
+                        (
+                            [latitude] => 39.97
+                            [longitude] => -75.31
+                            [gmtoff] => 0
+                            [dstoff] => 0
+                            [country_code] => US
+                            [timezone] => 610/484
+                            [region] => pa
+                        )
+
+                    [source] => Import
+                    [tags_count] => 1
+                    [tags] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [id] => 3267610
+                                    [name] => Confirmed Virtual Workshops
+                                )
+
+                        )
+
+                    [list_id] => becfdf7b92
+                    [_links] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [rel] => self
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/10d18c644e77b3bda8d8777ee01d4b18
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [rel] => parent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Paths/Lists/Members/Collection.json
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [rel] => update
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/10d18c644e77b3bda8d8777ee01d4b18
+                                    [method] => PATCH
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PATCH.json
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [rel] => upsert
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/10d18c644e77b3bda8d8777ee01d4b18
+                                    [method] => PUT
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/PUT.json
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [rel] => delete
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/10d18c644e77b3bda8d8777ee01d4b18
+                                    [method] => DELETE
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [rel] => activity
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/10d18c644e77b3bda8d8777ee01d4b18/activity
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Activity/Response.json
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [rel] => goals
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/10d18c644e77b3bda8d8777ee01d4b18/goals
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Goals/Response.json
+                                )
+
+                            [7] => stdClass Object
+                                (
+                                    [rel] => notes
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/10d18c644e77b3bda8d8777ee01d4b18/notes
+                                    [method] => GET
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Notes/CollectionResponse.json
+                                )
+
+                            [8] => stdClass Object
+                                (
+                                    [rel] => events
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/10d18c644e77b3bda8d8777ee01d4b18/events
+                                    [method] => POST
+                                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Events/POST.json
+                                )
+
+                            [9] => stdClass Object
+                                (
+                                    [rel] => delete_permanent
+                                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members/10d18c644e77b3bda8d8777ee01d4b18/actions/delete-permanent
+                                    [method] => POST
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [list_id] => becfdf7b92
+    [total_items] => 140
+    [_links] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [rel] => self
+                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members
+                    [method] => GET
+                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/CollectionResponse.json
+                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Paths/Lists/Members/Collection.json
+                )
+
+            [1] => stdClass Object
+                (
+                    [rel] => parent
+                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92
+                    [method] => GET
+                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                )
+
+            [2] => stdClass Object
+                (
+                    [rel] => create
+                    [href] => https://us19.api.mailchimp.com/3.0/lists/becfdf7b92/members
+                    [method] => POST
+                    [targetSchema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/Response.json
+                    [schema] => https://us19.api.mailchimp.com/schema/3.0/Definitions/Lists/Members/POST.json
+                )
+
+        )
+
+)

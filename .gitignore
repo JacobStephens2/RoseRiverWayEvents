@@ -1,3 +1,4 @@
 mailchimp/passwords.php
 .vscode
 mailchimp/packages/vendor
+mailchimp/guzzle/vendor

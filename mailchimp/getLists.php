@@ -2,7 +2,7 @@
 
 require_once('packages/initializeMailchimp.php');
 
-$response = $client->ping->get();
+$response = $client->lists->getAllLists();
 
 print_r($response);
 

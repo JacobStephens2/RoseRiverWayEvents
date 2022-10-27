@@ -1,9 +1,9 @@
 <?php
 
-require_once('initializeMailchimp.php');
+require_once('packages/initializeMailchimp.php');
 
 try {
-  $response = $mailchimp->lists->createList([
+  $response = $client->lists->createList([
     "name" => "PHP Developers Meetup",
     "permission_reminder" => "permission_reminder",
     "email_type_option" => false,

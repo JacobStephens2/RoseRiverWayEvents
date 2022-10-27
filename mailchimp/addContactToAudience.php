@@ -6,7 +6,7 @@ $list_id = ROSE_RIVER_WAY_WATERCOLOR_LIST_ID;
 
 try {
     $response = $client->lists->addListMember($list_id, [
-        "email_address" => "test@test.com",
+        "email_address" => "prudence.mcvankab@example.com",
         "status" => "subscribed",
         "merge_fields" => [
           "FNAME" => "Prudence",
