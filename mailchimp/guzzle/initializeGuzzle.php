@@ -5,7 +5,7 @@ require_once('../packages/envVariables.php');
 
 use GuzzleHttp\Client;
 
-// test
+// testing
 
 $client = new Client([
     // Base URI is used with relative requests
