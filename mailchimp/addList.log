@@ -1,0 +1,19 @@
+PHP Fatal error:  Uncaught GuzzleHttp\Exception\ClientException: Client error: `POST https://us19.api.mailchimp.com/3.0/lists` resulted in a `403 Forbidden` response:
+{"type":"https://mailchimp.com/developer/marketing/docs/errors/","title":"User action not permitted","status":403,"detai (truncated...)
+ in /var/www/RoseRiverWayEvents/mailchimp/packages/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php:113
+Stack trace:
+#0 /var/www/RoseRiverWayEvents/mailchimp/packages/vendor/guzzlehttp/guzzle/src/Middleware.php(69): GuzzleHttp\Exception\RequestException::create()
+#1 /var/www/RoseRiverWayEvents/mailchimp/packages/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}()
+#2 /var/www/RoseRiverWayEvents/mailchimp/packages/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler()
+#3 /var/www/RoseRiverWayEvents/mailchimp/packages/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /var/www/RoseRiverWayEvents/mailchimp/packages/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run()
+#5 /var/www/RoseRiverWayEvents/mailchimp/packages/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /var/www/RoseRiverWayEvents/mailchimp/packages/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /var/www/RoseRiverWayEvents/mailchimp/packages/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /var/www/RoseRiverWayEvents/mailchimp/packages/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /var/www/RoseRiverWayEvents/mailchimp/packages/vendor/guzzlehttp/guzzle/src/Client.php(123): GuzzleHttp\Promise\Promise->wait()
+#10 /var/www/RoseRiverWayEvents/mailchimp/packages/vendor/mailchimp/marketing/lib/Api/ListsApi.php(8682): GuzzleHttp\Client->send()
+#11 /var/www/RoseRiverWayEvents/mailchimp/packages/vendor/mailchimp/marketing/lib/Api/ListsApi.php(8671): MailchimpMarketing\Api\ListsApi->createListWithHttpInfo()
+#12 /var/www/RoseRiverWayEvents/mailchimp/addList.php(6): MailchimpMarketing\Api\ListsApi->createList()
+#13 {main}
+  thrown in /var/www/RoseRiverWayEvents/mailchimp/packages/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php on line 113
