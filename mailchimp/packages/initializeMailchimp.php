@@ -1,7 +1,7 @@
 <?php
 
 require_once('packages/vendor/autoload.php');
-require_once('envVariables.php');
+require_once('../envVariables.php');
 
 $client = new \MailchimpMarketing\ApiClient();
 

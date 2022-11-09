@@ -2,7 +2,7 @@
 
 require_once('packages/initializeMailchimp.php');
 
-$list_id = ROSE_RIVER_WAY_WATERCOLOR_LIST_ID;
+$list_id = LIST_ID;
 
 try {
     $response = $client->lists->addListMember($list_id, [

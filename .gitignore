@@ -1,4 +1,5 @@
 environmentVariables.php
+envVariables.php
 .vscode
 mailchimp/packages/vendor
 mailchimp/guzzle/vendor

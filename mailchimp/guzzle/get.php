@@ -1,7 +1,7 @@
 <?php
 
 require_once('vendor/autoload.php');
-require_once('../packages/envVariables.php');
+require_once('../../envVariables.php');
 
 use GuzzleHttp\Client;
 
