@@ -1,7 +1,7 @@
 <?php
 
 require_once('packages/initializeMailchimp.php');
-
+// test
 $list_id = LIST_ID;
 
 try {
